@@ -46,7 +46,7 @@
 	<!-- Vscode-->
   <li align="left"  list-style-type="none">	  
 	<a href="https://code.visualstudio.com/download">
-      		<img  width="100" height="100" src="" />
+      		<img  src="" />
     	</a>
 	  Visual Studio Code
 </li>
