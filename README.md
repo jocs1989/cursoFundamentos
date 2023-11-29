@@ -45,16 +45,16 @@
 <!-- insomnia-->
 
 <ul> Design, debug, and test APIs locally or in the cloud
-  <li align="lefth"  list-style-type="none">	  
+  <li align="left"  list-style-type="none">	  
 	<a href="https://insomnia.rest/download">
       		<img src="https://insomnia.rest/images/insomnia-logo.svg" />
     	</a>
 </li>
   </ul>
 
-<!-- Insopnia-->
+<!-- postman-->
 <div>
-  <p align="lefth">
+  <p align="left">
 	<a href="https://www.postman.com/downloads/">
       		<img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" /> postman
     	</a>
