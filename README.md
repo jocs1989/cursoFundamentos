@@ -46,6 +46,7 @@
 
 <div>
   <p align="center">
+	  Design, debug, and test APIs locally or in the cloud
 	<a href="https://insomnia.rest/download">
       		<img src="https://insomnia.rest/images/insomnia-logo.svg" />
     	</a>
