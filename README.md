@@ -45,7 +45,7 @@
 <!-- insomnia-->
 
 <ul> Design, debug, and test APIs locally or in the cloud
-  <li align="center"  list-style-type=none>	  
+  <li align="lefth"  list-style-type=none>	  
 	<a href="https://insomnia.rest/download">
       		<img src="https://insomnia.rest/images/insomnia-logo.svg" />
     	</a>
@@ -54,7 +54,7 @@
 
 <!-- Insopnia-->
 <div>
-  <p align="center">
+  <p align="lefth">
 	<a href="https://www.postman.com/downloads/">
       		<img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" /> postman
     	</a>
