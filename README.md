@@ -50,9 +50,10 @@
       		<img src="https://insomnia.rest/images/insomnia-logo.svg" />
     	</a>
 </li>
-	  <li align="left"  list-style-type="none">	  
-	<a href="https://insomnia.rest/download">
-      		<img src="https://insomnia.rest/images/insomnia-logo.svg" />
+	  <li align="left"  list-style-type="none">
+		  Postman
+	<a href="https://insomnia.rest/download](https://www.postman.com/downloads">
+      		<img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />
     	</a>
 </li>
   </ol>
