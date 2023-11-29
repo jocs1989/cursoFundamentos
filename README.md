@@ -46,7 +46,7 @@
 <div>
   <p align="center">
 	<a href="https://insomnia.rest/download">
-      		<img src="https://insomnia.rest/images/insomnia-logo.svg&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://insomnia.rest/images/insomnia-logo.svg" />
     	</a>
   </div>
 
