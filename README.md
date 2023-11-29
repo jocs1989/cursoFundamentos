@@ -52,7 +52,7 @@
 	  <ol list-style-type="none"> Plugins adicionales (Opcional) 
        <li align="left"  list-style-type="none">	  
 	<a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">
-      		 <img src="" />
+      		 <img width="25" height="25" src="https://pkief.gallerycdn.vsassets.io/extensions/pkief/material-icon-theme/4.32.0/1700479629849/Microsoft.VisualStudio.Services.Icons.Default" />
 		 Material Icon Theme
     	</a>	 
 		</li>
