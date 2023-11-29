@@ -42,14 +42,16 @@
 
 ----
 
-<!-- insomnia-->
 
-<ol list-style-type="none"> Design, debug, and test APIs locally or in the cloud
+
+<ol list-style-type="none"> Diseño y Testeo de APIs
+	<!-- insomnia-->
   <li align="left"  list-style-type="none">	  
 	<a href="https://insomnia.rest/download">
       		<img src="https://insomnia.rest/images/insomnia-logo.svg" />
     	</a>
 </li>
+	<!-- postman-->
 	  <li align="left"  list-style-type="none">		 
 	<a href="https://www.postman.com/downloads">
       		<img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />
@@ -57,15 +59,6 @@
     	</a>
 </li>
   </ol>
-
-<!-- postman-->
-<div>
-  <p align="left">
-	<a href="https://www.postman.com/downloads/">
-      		<img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" /> postman
-    	</a>
-  </div>
-
 
 
 
