@@ -22,52 +22,72 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,docker,github,html,linux,md,mongodb,postgresql,nestjs,express,nodejs,postman,py,angular,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Installation
+<!-- repositories -->
 
-```bash
-$ npm install
-```
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
-## Running the app
+----
 
-```bash
-# development
-$ npm run start
 
-# watch mode
-$ npm run start:dev
+<div>
+  <p align="center">
+	<a href="https://github.com/jocs1989/APIBEGO">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jocs1989&repo=APIBEGO&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </div>
 
-# production mode
-$ npm run start:prod
-```
 
-## Test
 
-```bash
-# unit tests
-$ npm run test
 
-# e2e tests
-$ npm run test:e2e
+<div>
+  <p align="center">
+	<a href="https://github.com/jocs1989/ecommerce">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=jocs1989&repo=ecommerce&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </div>
 
-# test coverage
-$ npm run test:cov
-```
 
-## Support
+</details>
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My conten🎥</h2></summary>
+  </ul>
+</div>
 
-## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+[![Watch the video](https://i.ytimg.com/vi/84cdpwSHOOU/hqdefault.jpg)](https://www.youtube.com/watch?v=84cdpwSHOOU&t=87s)
 
-## License
 
-Nest is [MIT licensed](LICENSE).
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/jocsanzamorarobredo/" target="blank">
+	<img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+
+
+  
+</p>
