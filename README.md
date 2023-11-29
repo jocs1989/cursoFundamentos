@@ -25,13 +25,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias del curso👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,docker,github,html,linux,md,mongodb,postgresql,nestjs,express,nodejs,postman,py,angular,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,docker,github,linux,md,mongodb,postgresql,nestjs,express,nodejs,postman,insomnia,vscode&perline=14" />
   </a>
 </p>
 
