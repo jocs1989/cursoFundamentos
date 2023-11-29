@@ -44,8 +44,13 @@
 
 <!-- insomnia-->
 
-<ul> Design, debug, and test APIs locally or in the cloud
+<ul list-style-type="none"> Design, debug, and test APIs locally or in the cloud
   <li align="left"  list-style-type="none">	  
+	<a href="https://insomnia.rest/download">
+      		<img src="https://insomnia.rest/images/insomnia-logo.svg" />
+    	</a>
+</li>
+	  <li align="left"  list-style-type="none">	  
 	<a href="https://insomnia.rest/download">
       		<img src="https://insomnia.rest/images/insomnia-logo.svg" />
     	</a>
