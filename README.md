@@ -55,7 +55,7 @@
 <div>
   <p align="center">
 	<a href="https://www.postman.com/downloads/">
-      		<img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" />
+      		<img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" /> postman
     	</a>
   </div>
 
