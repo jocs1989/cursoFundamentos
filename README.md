@@ -47,8 +47,16 @@
   <li align="left"  list-style-type="none">	  
 	<a href="https://code.visualstudio.com/download">
       		 <img src="https://skillicons.dev/icons?i=vscode&perline=14" />
+		 Visual Studio Code
     	</a>
-	  Visual Studio Code
+       <li align="left"  list-style-type="none">	  
+	<a href="https://code.visualstudio.com/download">
+      		 <img src="https://skillicons.dev/icons?i=vscode&perline=14" />
+		 Visual Studio Code
+    	</a>
+	 
+</li>
+	 
 </li>
 	
   </ol>
