@@ -45,7 +45,7 @@
 
 <div>
   <p align="center">
-	<a href="[https://github.com/jocs1989/APIBEGO](https://insomnia.rest/download)">
+	<a href="https://insomnia.rest/download">
       		<img src="https://insomnia.rest/images/insomnia-logo.svg&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </div>
