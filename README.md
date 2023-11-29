@@ -42,7 +42,18 @@
 
 ----
 
+<ol list-style-type="none"> Editor de codigo
+	<!-- Vscode-->
+  <li align="left"  list-style-type="none">	  
+	<a href="https://code.visualstudio.com/download">
+      		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/512px-Visual_Studio_Code_1.18_icon.svg.png" />
+    	</a>
+	  Visual Studio Code
+</li>
+	
+  </ol>
 
+  
 
 <ol list-style-type="none"> Diseño y Testeo de APIs
 	<!-- insomnia-->
@@ -59,6 +70,8 @@
     	</a>
 </li>
   </ol>
+  
+
 
 
 
