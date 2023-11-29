@@ -63,14 +63,6 @@
 
 </details>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">My conten🎥</h2></summary>
-  </ul>
-</div>
-
-
-[![Watch the video](https://i.ytimg.com/vi/84cdpwSHOOU/hqdefault.jpg)](https://www.youtube.com/watch?v=84cdpwSHOOU&t=87s)
 
 
 
